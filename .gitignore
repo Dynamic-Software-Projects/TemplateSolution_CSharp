@@ -61,13 +61,6 @@ nunit-*.xml
 *.user
 *.sln.docstates
 
-# Build results
-
-[Dd]ebug/
-[Rr]elease/
-x64/
-[Bb]in/
-[Oo]bj/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
