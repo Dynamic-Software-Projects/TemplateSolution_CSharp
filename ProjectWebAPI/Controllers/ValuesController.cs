@@ -1,10 +1,6 @@
-﻿
-using ApplicationLayer.Interfaces.Adapters;
-using ApplicationLayer.Interfaces.Managers;
+﻿using ApplicationLayer.Interfaces.Adapters;
 using Microsoft.AspNetCore.Mvc;
 using ServiceLayer.Interfaces.HttpService;
-using ServiceLayer.Models.Domain;
-using ServiceLayer.Models.Views;
 
 namespace ProjectWebAPI.Controllers
 {

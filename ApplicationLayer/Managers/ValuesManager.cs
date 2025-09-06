@@ -16,21 +16,6 @@ namespace ApplicationLayer.Managers
             _valuesModelCreator = valuesModelCreator;
         }
 
-        public HttpResponseView<InputValidationReportView> ResolveGetValues(string information)
-        {
-            var response = new HttpResponseView<InputValidationReportView>();  
-
-            var report = _inputValidator.ResolveInputValidation(information);
-
-            response.StatusCode = (report.ErrorCounter > 0) ?System.Net.HttpStatusCode.BadRequest : System.Net.HttpStatusCode.OK;
-            response.Message = (report.ErrorCounter > 0 ) ? "Bad Reeuqest" : System.Net.HttpStatusCode.OK.ToString();
-           
-            response.Payload = new() { };
-
-
-            return response;    
-        }
-
         public async Task<BaseProcessedValuesAction> CreateValuesObjectAsync(string input)
         {
             InputValidationReportView inputValidationReport = _inputValidator.ResolveInputValidation(input);

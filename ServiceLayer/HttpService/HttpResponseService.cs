@@ -27,7 +27,6 @@ namespace ServiceLayer.HttpService
 
                 #endregion 3xx: Redirection
 
-
                 #region 4xx: Client Error
     
                 case HttpStatusCode.BadRequest:

@@ -1,78 +1,138 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\",
+  "WorkspaceRootPath": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\applicationlayer\\adapters\\valuesadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\applicationlayer\\adapters\\valuesadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\adapters\\valuesadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A9D0E42-B82E-4C1E-A533-95A684AC2709}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\projectwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9D0E42-B82E-4C1E-A533-95A684AC2709}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\servicelayer\\modelcreatorservice\\httpresponsecreatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\modelcreatorservice\\httpresponsecreatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\servicelayer\\models\\views\\valuesobjectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\models\\views\\valuesobjectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\servicelayer\\httpservice\\httpresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\httpservice\\httpresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\applicationlayer\\managers\\valuesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\managers\\valuesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\applicationlayer\\applicationlayerdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\applicationlayerdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\applicationlayer\\interfaces\\adapters\\ivaluesadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\applicationlayer\\interfaces\\adapters\\ivaluesadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\interfaces\\adapters\\ivaluesadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\applicationlayer\\interfaces\\managers\\ivaluesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\applicationlayer\\interfaces\\managers\\iregistrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\interfaces\\managers\\iregistrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\applicationlayer\\interfaces\\managers\\ivaluesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\interfaces\\managers\\ivaluesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\applicationlayer\\managers\\registrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\managers\\registrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\applicationlayer\\managers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\managers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9D0E42-B82E-4C1E-A533-95A684AC2709}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\projectwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9D0E42-B82E-4C1E-A533-95A684AC2709}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\dataaccesslayer\\dataaccesslayerdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayerdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\applicationlayer\\interfaces\\session\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\applicationlayer\\interfaces\\session\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\interfaces\\session\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\applicationlayer\\interfaces\\session\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\applicationlayer\\interfaces\\session\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\interfaces\\session\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\applicationlayer\\managers\\registrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\managers\\registrationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\dataaccesslayer\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\applicationlayer\\managers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\managers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\applicationlayer\\managers\\valuesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\managers\\valuesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\applicationlayer\\applicationlayerdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AABCEFC-3713-4E83-B1EB-9D3D72B829AF}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\applicationlayerdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\dataaccesslayer\\interfaces\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\dataaccesslayer\\models\\dtos\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\dtos\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\dataaccesslayer\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\dataaccesslayer\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|c:\\_projects\\csharp_solutions\\templatesolution\\dataaccesslayer\\interfaces\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\dataaccesslayer\\dataaccesslayerdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E113F8-D88C-4F33-8E8B-C8DCC3B98691}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayerdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9D0E42-B82E-4C1E-A533-95A684AC2709}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\projectwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9D0E42-B82E-4C1E-A533-95A684AC2709}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D418DB-A51A-4120-99BD-89BDE1139D0B}|ProjectWebAPI.Test\\ProjectWebAPI.Test.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\projectwebapi.test\\applicationlayer.test\\managers\\sessionmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D418DB-A51A-4120-99BD-89BDE1139D0B}|ProjectWebAPI.Test\\ProjectWebAPI.Test.csproj|solutionrelative:projectwebapi.test\\applicationlayer.test\\managers\\sessionmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\enumerations\\apiactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\enumerations\\apiactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\httpservice\\httpresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\httpservice\\httpresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\interfaces\\httpservice\\ihttpresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\interfaces\\httpservice\\ihttpresponseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\interfaces\\modelcreatorservice\\ihttpresponsecreatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\interfaces\\modelcreatorservice\\ihttpresponsecreatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\interfaces\\modelcreatorservice\\ivaluesmodelcreatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\interfaces\\modelcreatorservice\\ivaluesmodelcreatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\interfaces\\validationservice\\iinputvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\interfaces\\validationservice\\iinputvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\modelcreatorservice\\httpresponsecreatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\modelcreatorservice\\httpresponsecreatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\modelcreatorservice\\valuesmodelcreatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\modelcreatorservice\\valuesmodelcreatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\models\\domain\\baseprocessedvaluesaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\models\\domain\\baseprocessedvaluesaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\models\\views\\httpresponseview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\models\\views\\httpresponseview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\models\\views\\inputvalidationreportview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\models\\views\\inputvalidationreportview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\models\\views\\valuesobjectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\models\\views\\valuesobjectview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\validationservice\\inputvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\validationservice\\inputvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\servicelayer\\servicelayerdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8156FB-C55A-4997-BC1B-D5398B48DC98}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayerdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9D0E42-B82E-4C1E-A533-95A684AC2709}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\_github\\dynamic-software-projects\\templatesolution_csharp\\projectwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9D0E42-B82E-4C1E-A533-95A684AC2709}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1167,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -175,10 +235,374 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IRegistrationManager.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Interfaces\\Managers\\IRegistrationManager.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Managers\\IRegistrationManager.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Interfaces\\Managers\\IRegistrationManager.cs",
+              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Managers\\IRegistrationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:25:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrationManager.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Managers\\RegistrationManager.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Managers\\RegistrationManager.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Managers\\RegistrationManager.cs",
+              "RelativeToolTip": "ApplicationLayer\\Managers\\RegistrationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:52:17.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Interfaces\\Session\\Logout.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Session\\Logout.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Interfaces\\Session\\Logout.cs",
+              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Session\\Logout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:34:34.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesAdapter.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Adapters\\ValuesAdapter.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Adapters\\ValuesAdapter.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Adapters\\ValuesAdapter.cs",
+              "RelativeToolTip": "ApplicationLayer\\Adapters\\ValuesAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T20:37:14.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Managers\\SessionManager.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Managers\\SessionManager.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Managers\\SessionManager.cs",
+              "RelativeToolTip": "ApplicationLayer\\Managers\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:28:09.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Interfaces\\Session\\Login.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Session\\Login.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Interfaces\\Session\\Login.cs",
+              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Session\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:32:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IValuesAdapter.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Interfaces\\Adapters\\IValuesAdapter.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Adapters\\IValuesAdapter.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Interfaces\\Adapters\\IValuesAdapter.cs",
+              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Adapters\\IValuesAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:54:35.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValuesManager.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Managers\\ValuesManager.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Managers\\ValuesManager.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Managers\\ValuesManager.cs",
+              "RelativeToolTip": "ApplicationLayer\\Managers\\ValuesManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:25:46.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationLayerDependencyInjection.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\ApplicationLayerDependencyInjection.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\ApplicationLayerDependencyInjection.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\ApplicationLayerDependencyInjection.cs",
+              "RelativeToolTip": "ApplicationLayer\\ApplicationLayerDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T04:55:07.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IValuesManager.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Interfaces\\Managers\\IValuesManager.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Managers\\IValuesManager.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ApplicationLayer\\Interfaces\\Managers\\IValuesManager.cs",
+              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Managers\\IValuesManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:39:52.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\Interfaces\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\Interfaces\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Interfaces\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:03:51.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SessionDTO.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\Models\\DTOS\\SessionDTO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\DTOS\\SessionDTO.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\Models\\DTOS\\SessionDTO.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\DTOS\\SessionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:25:03.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\Models\\DTOS\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\DTOS\\UserDTO.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\Models\\DTOS\\UserDTO.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\DTOS\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:25:00.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T03:54:36.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataAccessLayerDependencyInjection.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\DataAccessLayerDependencyInjection.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayerDependencyInjection.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\DataAccessLayerDependencyInjection.cs",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayerDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T03:35:30.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ProjectWebAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ProjectWebAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:48:01.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SessionManagerTests.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ProjectWebAPI.Test\\ApplicationLayer.Test\\Managers\\SessionManagerTests.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI.Test\\ApplicationLayer.Test\\Managers\\SessionManagerTests.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ProjectWebAPI.Test\\ApplicationLayer.Test\\Managers\\SessionManagerTests.cs",
+              "RelativeToolTip": "ProjectWebAPI.Test\\ApplicationLayer.Test\\Managers\\SessionManagerTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:24:07.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "APIActionType.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Enumerations\\APIActionType.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Enumerations\\APIActionType.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Enumerations\\APIActionType.cs",
+              "RelativeToolTip": "ServiceLayer\\Enumerations\\APIActionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:23:50.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\Repositories\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\SessionRepository.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\DataAccessLayer\\Repositories\\SessionRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\SessionRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T04:03:01.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IHttpResponseService.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Interfaces\\HttpService\\IHttpResponseService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Interfaces\\HttpService\\IHttpResponseService.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Interfaces\\HttpService\\IHttpResponseService.cs",
+              "RelativeToolTip": "ServiceLayer\\Interfaces\\HttpService\\IHttpResponseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:23:27.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IHttpResponseCreatorService.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Interfaces\\ModelCreatorService\\IHttpResponseCreatorService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Interfaces\\ModelCreatorService\\IHttpResponseCreatorService.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Interfaces\\ModelCreatorService\\IHttpResponseCreatorService.cs",
+              "RelativeToolTip": "ServiceLayer\\Interfaces\\ModelCreatorService\\IHttpResponseCreatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:23:24.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IValuesModelCreatorService.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Interfaces\\ModelCreatorService\\IValuesModelCreatorService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Interfaces\\ModelCreatorService\\IValuesModelCreatorService.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Interfaces\\ModelCreatorService\\IValuesModelCreatorService.cs",
+              "RelativeToolTip": "ServiceLayer\\Interfaces\\ModelCreatorService\\IValuesModelCreatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:23:23.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IInputValidatorService.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Interfaces\\ValidationService\\IInputValidatorService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Interfaces\\ValidationService\\IInputValidatorService.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Interfaces\\ValidationService\\IInputValidatorService.cs",
+              "RelativeToolTip": "ServiceLayer\\Interfaces\\ValidationService\\IInputValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:23:19.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HttpResponseService.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\HttpService\\HttpResponseService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\HttpService\\HttpResponseService.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\HttpService\\HttpResponseService.cs",
+              "RelativeToolTip": "ServiceLayer\\HttpService\\HttpResponseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:23:58.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ValuesModelCreatorService.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\ModelCreatorService\\ValuesModelCreatorService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ModelCreatorService\\ValuesModelCreatorService.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\ModelCreatorService\\ValuesModelCreatorService.cs",
+              "RelativeToolTip": "ServiceLayer\\ModelCreatorService\\ValuesModelCreatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:23:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseProcessedValuesAction.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Models\\Domain\\BaseProcessedValuesAction.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Models\\Domain\\BaseProcessedValuesAction.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Models\\Domain\\BaseProcessedValuesAction.cs",
+              "RelativeToolTip": "ServiceLayer\\Models\\Domain\\BaseProcessedValuesAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:23:03.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HttpResponseView.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Models\\Views\\HttpResponseView.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Models\\Views\\HttpResponseView.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Models\\Views\\HttpResponseView.cs",
+              "RelativeToolTip": "ServiceLayer\\Models\\Views\\HttpResponseView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:22:58.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InputValidationReportView.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Models\\Views\\InputValidationReportView.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Models\\Views\\InputValidationReportView.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Models\\Views\\InputValidationReportView.cs",
+              "RelativeToolTip": "ServiceLayer\\Models\\Views\\InputValidationReportView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:22:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "HttpResponseCreatorService.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ServiceLayer\\ModelCreatorService\\HttpResponseCreatorService.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\ModelCreatorService\\HttpResponseCreatorService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\ModelCreatorService\\HttpResponseCreatorService.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ServiceLayer\\ModelCreatorService\\HttpResponseCreatorService.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\ModelCreatorService\\HttpResponseCreatorService.cs",
               "RelativeToolTip": "ServiceLayer\\ModelCreatorService\\HttpResponseCreatorService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,11 +611,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 30,
+              "Title": "InputValidatorService.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\ValidationService\\InputValidatorService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ValidationService\\InputValidatorService.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\ValidationService\\InputValidatorService.cs",
+              "RelativeToolTip": "ServiceLayer\\ValidationService\\InputValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:22:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServiceLayerDependencyInjection.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\ServiceLayerDependencyInjection.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayerDependencyInjection.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\ServiceLayerDependencyInjection.cs",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayerDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T22:22:42.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "ValuesObjectView.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ServiceLayer\\Models\\Views\\ValuesObjectView.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Models\\Views\\ValuesObjectView.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Models\\Views\\ValuesObjectView.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ServiceLayer\\Models\\Views\\ValuesObjectView.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ServiceLayer\\Models\\Views\\ValuesObjectView.cs",
               "RelativeToolTip": "ServiceLayer\\Models\\Views\\ValuesObjectView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,197 +650,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ValuesAdapter.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Adapters\\ValuesAdapter.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Adapters\\ValuesAdapter.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Adapters\\ValuesAdapter.cs",
-              "RelativeToolTip": "ApplicationLayer\\Adapters\\ValuesAdapter.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAIAwwC8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T20:37:14.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ValuesManager.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Managers\\ValuesManager.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Managers\\ValuesManager.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Managers\\ValuesManager.cs",
-              "RelativeToolTip": "ApplicationLayer\\Managers\\ValuesManager.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwCwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T06:25:46.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ProjectWebAPI\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "ProjectWebAPI\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ProjectWebAPI\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "ProjectWebAPI\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwCEAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T04:48:01.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HttpResponseService.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ServiceLayer\\HttpService\\HttpResponseService.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\HttpService\\HttpResponseService.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ServiceLayer\\HttpService\\HttpResponseService.cs",
-              "RelativeToolTip": "ServiceLayer\\HttpService\\HttpResponseService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAcwDkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T03:23:58.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IValuesAdapter.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Interfaces\\Adapters\\IValuesAdapter.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Adapters\\IValuesAdapter.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Interfaces\\Adapters\\IValuesAdapter.cs",
-              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Adapters\\IValuesAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T04:54:35.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationLayerDependencyInjection.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\ApplicationLayerDependencyInjection.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\ApplicationLayerDependencyInjection.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\ApplicationLayerDependencyInjection.cs",
-              "RelativeToolTip": "ApplicationLayer\\ApplicationLayerDependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T04:55:07.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IValuesManager.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Interfaces\\Managers\\IValuesManager.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Managers\\IValuesManager.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Interfaces\\Managers\\IValuesManager.cs",
-              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Managers\\IValuesManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T03:39:52.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegistrationManager.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Managers\\RegistrationManager.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Managers\\RegistrationManager.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Managers\\RegistrationManager.cs",
-              "RelativeToolTip": "ApplicationLayer\\Managers\\RegistrationManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T20:52:17.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ProjectWebAPI\\Program.cs",
+              "DocumentMoniker": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ProjectWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "ProjectWebAPI\\Program.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ProjectWebAPI\\Program.cs",
+              "ToolTip": "C:\\_Github\\Dynamic-Software-Projects\\TemplateSolution_CSharp\\ProjectWebAPI\\Program.cs",
               "RelativeToolTip": "ProjectWebAPI\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T03:31:04.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SessionManager.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Managers\\SessionManager.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Managers\\SessionManager.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Managers\\SessionManager.cs",
-              "RelativeToolTip": "ApplicationLayer\\Managers\\SessionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T04:28:09.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DataAccessLayerDependencyInjection.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\DataAccessLayer\\DataAccessLayerDependencyInjection.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayerDependencyInjection.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\DataAccessLayer\\DataAccessLayerDependencyInjection.cs",
-              "RelativeToolTip": "DataAccessLayer\\DataAccessLayerDependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T03:35:30.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Logout.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Interfaces\\Session\\Logout.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Session\\Logout.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Interfaces\\Session\\Logout.cs",
-              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Session\\Logout.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T04:34:34.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Interfaces\\Session\\Login.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\Interfaces\\Session\\Login.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\ApplicationLayer\\Interfaces\\Session\\Login.cs",
-              "RelativeToolTip": "ApplicationLayer\\Interfaces\\Session\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T04:32:32.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\DataAccessLayer\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\DataAccessLayer\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T03:54:36.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SessionRepository.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\DataAccessLayer\\Repositories\\SessionRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\SessionRepository.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\DataAccessLayer\\Repositories\\SessionRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\SessionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T04:03:01.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\DataAccessLayer\\Interfaces\\Repositories\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\Repositories\\IBaseRepository.cs",
-              "ToolTip": "C:\\_Projects\\CSharp_Solutions\\TemplateSolution\\DataAccessLayer\\Interfaces\\Repositories\\IBaseRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Interfaces\\Repositories\\IBaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T04:03:51.859Z"
             }
           ]
         },

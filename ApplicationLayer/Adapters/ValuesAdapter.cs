@@ -1,6 +1,5 @@
 ﻿using ApplicationLayer.Interfaces.Adapters;
 using ApplicationLayer.Interfaces.Managers;
-using Newtonsoft.Json;
 using ServiceLayer.Enumerations;
 using ServiceLayer.Interfaces.ModelCreatorService;
 using ServiceLayer.Models.Domain;
